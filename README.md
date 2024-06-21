@@ -4,6 +4,7 @@
 
 This is a simple node application that shows on the main page server on which it is running and report errors to [Rollbar](https://rollbar.com/).
 
+
 ## Usage
 
 ```bash
