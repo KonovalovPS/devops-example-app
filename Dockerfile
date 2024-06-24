@@ -11,4 +11,5 @@ RUN npm ci
 
 COPY . .
 
-CMD ["bin/start.sh"]
+# Старт сервера описывается в scripts внутри package.json
+CMD ["npm", "start"]

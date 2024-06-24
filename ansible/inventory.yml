@@ -5,4 +5,5 @@ all:
     webservers:
       hosts:
         web1:
-          ansible_host: 65.108.149.193
+          ansible_user: root
+          ansible_host: 85.209.153.225

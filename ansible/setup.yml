@@ -11,3 +11,7 @@
 
     - pip:
         name: docker
+
+    - pip:
+        name: requests
+        version: 2.31.0
